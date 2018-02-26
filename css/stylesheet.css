@@ -99,6 +99,11 @@ p {
 /*if ligged in */
 
 
+.beta{
+    height: 50px;
+    width: 50px;
+}
+
 /*-------------------------Header------------------*/
 
 .header{
